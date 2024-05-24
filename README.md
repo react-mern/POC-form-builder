@@ -77,3 +77,7 @@ Demo [Link](https://dynamicform-flame.vercel.app/)
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for any features or improvements you'd like to see.
+
+## Author Details
+Name: vipul chandravadiya   
+Email: vipul.c@simformsolutions.com
